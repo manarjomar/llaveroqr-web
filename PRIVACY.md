@@ -1,6 +1,6 @@
 # QR Keyring privacy policy
 
-*Last updated: 25 November 2026*
+*Last updated: 28 November 2026*
 
 > In short: QR Keyring has no accounts, no servers, no ads, no analytics and doesn't use the internet. It doesn't collect or share any data. Your codes stay on your phone.
 
@@ -29,6 +29,14 @@ The app asks for camera permission only to scan codes when you open the scanner.
 To scan codes from screenshots or photos, or to put a logo in the centre of a code, the app only accesses the images you pick with the system picker or share with it. It can't see the rest of your gallery and doesn't ask for storage permissions. Images used for scanning are analysed on the phone and not stored; logos are copied, downsized, inside the app.
 
 
+
+## Shield, NFC and fingerprint
+
+The shield that checks links before opening them runs on your phone, offline: it only analyses the text in the code and doesn't contact any external service. The NFC permission is used only to pause contactless payment while you show a code full screen, if you turn that option on; the app doesn't read cards or tags. The vault uses your fingerprint, face or screen lock through Android: the app only receives a "yes" or "no" and never sees or stores your biometric data.
+
+## Import and export
+
+Wallet passes, exports from other apps and CSV files you import are read on your phone and stored inside the app. Files you export (CSV, SVG, PDF or sticker sheets) are saved wherever you choose.
 
 ## Sharing, gallery and printing
 

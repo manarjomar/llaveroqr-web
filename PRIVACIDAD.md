@@ -1,6 +1,6 @@
 # Política de privacidad de Llavero QR
 
-*Última actualización: 25 de noviembre de 2026*
+*Última actualización: 28 de noviembre de 2026*
 
 > En pocas palabras: Llavero QR no tiene cuentas, ni servidor, ni publicidad, ni analíticas, y no usa internet. No recoge ni comparte ningún dato. Tus códigos se quedan en tu móvil.
 
@@ -29,6 +29,14 @@ La app pide permiso de cámara solo para leer códigos cuando tú abres el lecto
 Para leer códigos desde capturas o fotos, o para poner un logo en el centro de un código, la app solo accede a las imágenes que tú eliges con el selector del sistema o que compartes con ella. No puede ver el resto de tu galería y no pide permisos de almacenamiento. Las imágenes para leer códigos se analizan en el móvil y no se guardan; los logos se copian, reducidos, dentro de la app.
 
 
+
+## Escudo, NFC y huella
+
+El escudo que revisa los enlaces antes de abrirlos funciona dentro del móvil y sin conexión: solo analiza el texto del código y no consulta ningún servicio externo. El permiso de NFC se usa únicamente para poner en pausa el pago sin contacto mientras enseñas un código a pantalla completa, si activas esa opción; la app no lee tarjetas ni etiquetas. La caja fuerte usa la huella, la cara o el bloqueo de pantalla mediante el sistema Android: la app solo recibe un «sí» o un «no» y nunca ve ni guarda tus datos biométricos.
+
+## Importar y exportar
+
+Los pases de Wallet, las copias de otras apps y los archivos CSV que importas se leen en el móvil y se guardan dentro de la app. Los archivos que exportas (CSV, SVG, PDF u hojas de pegatinas) se guardan donde tú elijas.
 
 ## Compartir, galería e impresión
 
